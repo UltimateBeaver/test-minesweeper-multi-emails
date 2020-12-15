@@ -77,8 +77,6 @@ def test4():
         return g
     elif h:
         return h
-    elif i:
-        return i
 
 def test5():
     if a:
@@ -97,5 +95,3 @@ def test5():
         return g
     elif h:
         return h
-    elif i:
-        return i
