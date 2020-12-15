@@ -57,8 +57,8 @@ def test3():
         return g
     elif h:
         return h
-    elif i:
-        return i
+    # removed by a3@merico.dev
+
 
 def test4():
     if a:
